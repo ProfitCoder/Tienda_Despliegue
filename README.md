@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tienda Demo
 
 Aplicación web estática de ejemplo para la práctica de despliegue de aplicaciones web de 2.º DAW.
@@ -59,3 +60,6 @@ git pull
 ## Importante
 
 Esta tienda es una maqueta educativa. No incluye backend, autenticación, inventario real, pagos ni tratamiento de datos personales.
+=======
+# Tienda_Despliegue
+>>>>>>> origin/main
